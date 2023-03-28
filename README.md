@@ -165,7 +165,7 @@ dotnet add package Azure.Identity
 ```
 
 ### Get the the connection string from the event hub namespace and hubname and insert it into the code below
-```
+```c#
 using Azure.Identity;
 using Azure.Messaging.EventHubs;
 using Azure.Messaging.EventHubs.Producer;
