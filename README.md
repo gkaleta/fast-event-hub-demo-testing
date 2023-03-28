@@ -211,6 +211,12 @@ finally
 ```
 az eventhubs namespace authorization-rule keys list --resource-group g-eventhubrg --namespace-name project-gns --name RootManageSharedAccessKey --query primaryConnectionString --output tsv
 ```
+### Console output should look like this: 
 
+![image](https://user-images.githubusercontent.com/22896482/228251995-9b690d6c-1368-4bf7-9b0c-2b04dafe4566.png)
+
+### Azure Portal
+
+![image](https://user-images.githubusercontent.com/22896482/228252365-f97d8632-0d21-48d6-b5d7-38af0d1edf29.png)
 
 
