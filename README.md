@@ -172,7 +172,7 @@ using Azure.Messaging.EventHubs.Producer;
 using System.Text;
 
 // number of events to be sent to the event hub
-int numOfEvents = 3;
+int numOfEvents = 10000;
 
 // The Event Hubs client types are safe to cache and use as a singleton for the lifetime
 // of the application, which is best practice when events are being published or read regularly.
