@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "dLdlNNnjfvkdPm53VA6qt3oUxTbxKBX55eoACliiKcU2sRv+7kaUMqSrqEoyOWdBK2qav4FgwAFmszViQHgEQg==",
+  "success": true,
+  "projectFilePath": "/Users/gustav/Documents/app-code/eventhub/eventhub.csproj",
+  "expectedPackageFiles": [
+    "/Users/gustav/.nuget/packages/azure.core/1.30.0/azure.core.1.30.0.nupkg.sha512",
+    "/Users/gustav/.nuget/packages/azure.core.amqp/1.3.0/azure.core.amqp.1.3.0.nupkg.sha512",
+    "/Users/gustav/.nuget/packages/azure.identity/1.8.2/azure.identity.1.8.2.nupkg.sha512",
+    "/Users/gustav/.nuget/packages/azure.messaging.eventhubs/5.8.1/azure.messaging.eventhubs.5.8.1.nupkg.sha512",
+    "/Users/gustav/.nuget/packages/microsoft.azure.amqp/2.6.1/microsoft.azure.amqp.2.6.1.nupkg.sha512",
+    "/Users/gustav/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "/Users/gustav/.nuget/packages/microsoft.identity.client/4.49.1/microsoft.identity.client.4.49.1.nupkg.sha512",
+    "/Users/gustav/.nuget/packages/microsoft.identity.client.extensions.msal/2.25.3/microsoft.identity.client.extensions.msal.2.25.3.nupkg.sha512",
+    "/Users/gustav/.nuget/packages/microsoft.identitymodel.abstractions/6.22.0/microsoft.identitymodel.abstractions.6.22.0.nupkg.sha512",
+    "/Users/gustav/.nuget/packages/microsoft.netcore.platforms/5.0.0/microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "/Users/gustav/.nuget/packages/system.diagnostics.diagnosticsource/4.6.0/system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "/Users/gustav/.nuget/packages/system.io.filesystem.accesscontrol/5.0.0/system.io.filesystem.accesscontrol.5.0.0.nupkg.sha512",
+    "/Users/gustav/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/gustav/.nuget/packages/system.memory.data/1.0.2/system.memory.data.1.0.2.nupkg.sha512",
+    "/Users/gustav/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/gustav/.nuget/packages/system.reflection.typeextensions/4.7.0/system.reflection.typeextensions.4.7.0.nupkg.sha512",
+    "/Users/gustav/.nuget/packages/system.security.accesscontrol/5.0.0/system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "/Users/gustav/.nuget/packages/system.security.cryptography.protecteddata/4.7.0/system.security.cryptography.protecteddata.4.7.0.nupkg.sha512",
+    "/Users/gustav/.nuget/packages/system.security.principal.windows/5.0.0/system.security.principal.windows.5.0.0.nupkg.sha512",
+    "/Users/gustav/.nuget/packages/system.text.encodings.web/4.7.2/system.text.encodings.web.4.7.2.nupkg.sha512",
+    "/Users/gustav/.nuget/packages/system.text.json/4.7.2/system.text.json.4.7.2.nupkg.sha512",
+    "/Users/gustav/.nuget/packages/system.threading.channels/4.7.1/system.threading.channels.4.7.1.nupkg.sha512",
+    "/Users/gustav/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
