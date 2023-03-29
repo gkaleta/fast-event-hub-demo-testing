@@ -177,7 +177,7 @@ int numOfEvents = 50000;
 // of the application, which is best practice when events are being published or read regularly.
 // TODO: Replace the <CONNECTION_STRING> and <HUB_NAME> placeholder values
 EventHubProducerClient producerClient = new EventHubProducerClient(
-    "Endpoint=sb://project-gns.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=H0g1dB6Fbz01UCWgNfKVu09WvAqbi+Raq+AEhAGWiZ0=",
+    "Endpoint=sb://project-gns.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=xxxxx",
     "project-g");
 
 // Create a batch of events 
