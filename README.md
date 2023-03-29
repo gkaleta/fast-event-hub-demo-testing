@@ -22,18 +22,18 @@ Build a super fast Eventhub demo - where your C# code sends events to Event Hub.
  
  
  ### Deployment script
-```
+```console
 az deployment group create --resource-group g-eventhubrg --template-file eventhubcreate.bicep --parameters projectname=g-eventhubproject --debug
 ```
 
 ### Execute bicep file
-```
+```console
 az deployment group create --resource-group g-eventhubrg --template-file eventhubcreate.bicep --parameters projectName=project-g   
 ```
 > Note that you need to change the projectName
 
 ### Output from event hub bicep should look like this, scroll FAST!
-```
+```json
 {
   "id": "/subscriptions/x/resourceGroups/g-eventhubrg/providers/Microsoft.Resources/deployments/eventhubcreate",
   "location": null,
@@ -208,7 +208,7 @@ finally
 ```
 
 ### If you want to use the connection string from the event hub namespace you can use the command below
-```
+```console
 az eventhubs namespace authorization-rule keys list --resource-group g-eventhubrg --namespace-name project-gns --name RootManageSharedAccessKey --query primaryConnectionString --output tsv
 ```
 ### Console output should look like this: 
