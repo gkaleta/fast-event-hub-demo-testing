@@ -18,7 +18,7 @@ Build a super fast Eventhub demo - where your C# code sends events to Event Hub.
     - When an application has completed using a producer or consumer client, it should be closed. This will ensure that network
     resources and other unmanaged objects are properly cleaned 
  '''
- 
+ > Locate demo app under eventhub folder
  
  
  ### Deployment script
